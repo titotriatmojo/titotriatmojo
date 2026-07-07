@@ -29,7 +29,7 @@ Business/Data Analyst with a background in Informatics Engineering and hands-on 
 
 ## 📬 Let's Connect
 
-[🔗 LinkedIn](https://www.linkedin.com/in/titotriatmojo/)
+[🔗 LinkedIn](https://www.linkedin.com/in/titotriatmojo/)  
 [📧 Email](mailto:titotriatmojo597@gmail.com)
 
 ---
