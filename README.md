@@ -22,7 +22,7 @@ Business Analyst with a background in Informatics Engineering and hands-on exper
 
 ## 🗂 Featured Projects
 
-📂 **[Project Name (Soon)](https://github.com/YOUR_USERNAME/YOUR_REPO)**
+📂 **[Project Name (Soon)](https://github.com/YOUR_USERNAME/YOUR_REPO)**  
 *End-to-end project name (soon)*
 
 ---
