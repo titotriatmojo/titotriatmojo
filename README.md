@@ -2,7 +2,7 @@
 
 🎯 **Business Analyst | Data Analyst**
 
-Business Analyst with a background in Informatics Engineering and hands-on experience in business process documentation, requirements analysis, and data management through academic and internship projects. Skilled in SQL, Excel, Power BI, UML, and process modeling, with the ability to translate business needs into structured solutions. 
+Business/Data Analyst with a background in Informatics Engineering and hands-on experience in business process documentation, requirements analysis, and data management through academic and internship projects. Skilled in SQL, Excel, Power BI, UML, and process modeling, with the ability to translate business needs into structured solutions. 
 
 [![View My Portfolio](https://img.shields.io/badge/View-My_Portfolio-blue)](https://github.com/YOUR_USERNAME/YOUR_PORTFOLIO_REPO)
 
