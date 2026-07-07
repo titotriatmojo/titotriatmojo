@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Tito
 
-<!--
-**titotriatmojo/titotriatmojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Business Analyst | Data Analyst **
 
-Here are some ideas to get you started:
+Business Analyst with a background in Informatics Engineering and hands-on experience in business process documentation, requirements analysis, and data management through academic and internship projects. Skilled in SQL, Excel, Power BI, UML, and process modeling, with the ability to translate business needs into structured solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![View My Portfolio](https://img.shields.io/badge/View-My_Portfolio-blue)](https://github.com/YOUR_USERNAME/YOUR_PORTFOLIO_REPO)
+
+---
+
+## 🛠 Tools & Skills
+
+- **Business Analysis**: Requirements Gathering, BRD, FRD, Elicitation, RTM (Requirements Traceability Matrix)
+- **Process & Data Modeling**: BPMN 2.0, As-Is/To-Be Analysis, Process Mapping
+- **Data Analysis**: SQL, Data Cleaning, Exploratory Data Analysis
+- **Business Intelligence**: Power BI Dashboard Design, Data Visualization
+- **Tools**: Excel, MySQL Workbench, draw.io, Power BI, Notion, Confluence
+- **Methodologies**: Waterfall, Agile, SCRUM, MoSCoW, UAT (User Acceptance Testing)
+- **Adjacent Skills**: Wireframing, User Research, Figma
+
+---
+
+## 🗂 Featured Projects
+
+📂 **[Project Name (Soon)](https://github.com/YOUR_USERNAME/YOUR_REPO)**
+*End-to-end project name (soon)*
+
+---
+
+## 📬 Let's Connect
+
+[🔗 LinkedIn](https://www.linkedin.com/in/titotriatmojo/)
+[📧 Email](mailto:titotriatmojo597@gmail.com)
+
+---
+
+#️⃣ **Open to Opportunities** | Business Analyst | Data Analyst |
