@@ -22,8 +22,8 @@ Business/Data Analyst with a background in Informatics Engineering and hands-on 
 
 ## 🗂 Featured Projects
 
-📂 **[Project Name (Soon)](https://github.com/YOUR_USERNAME/YOUR_REPO)**  
-*End-to-end project name (soon)*
+📂 **[Data Analyst Projects]([https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/titotriatmojo/data-analyst-portfolio))**  
+*SQL-driven analysis covering order cancellation trends, product performance, and regional sales patterns.*
 
 ---
 
