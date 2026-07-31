@@ -23,9 +23,9 @@ Business/Data Analyst with a background in Informatics Engineering and hands-on 
 📂 **[Data Analyst Projects](https://github.com/titotriatmojo/data-analyst-portfolio)**  
 *SQL-driven analysis covering order cancellation trends, product performance, and regional sales patterns.*  
 📂 **[Business Intelligence Projects](https://github.com/titotriatmojo/business-intelligence-portfolio)**  
-*Interactive Power BI dashboards for e-commerce sales, cancellation monitoring, and regional performance tracking.*
+*Interactive Power BI dashboards for e-commerce sales, cancellation monitoring, and regional performance tracking.*  
 📂 **[Business Analyst Projects](https://github.com/titotriatmojo/business-analyst-portfolio)**  
-*BPMN process models and business requirements documents translating cancellation findings into a proposed post-checkout order editing solution.*
+*BPMN process models and business requirements documents translating cancellation findings into a proposed post-checkout order editing solution.*  
 ---
 
 ## 📬 Let's Connect
