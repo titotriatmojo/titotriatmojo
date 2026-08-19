@@ -8,11 +8,11 @@ Business/Data Analyst with a background in Informatics Engineering and hands-on 
 
 ## 🛠 Tools & Skills
 
-- **Business Analysis**: Requirements Gathering, BRD, FRD, Elicitation, RTM (Requirements Traceability Matrix)
-- **Process & Data Modeling**: BPMN 2.0, As-Is/To-Be Analysis, Process Mapping
 - **Data Analysis**: SQL, Data Cleaning, Exploratory Data Analysis
 - **Business Intelligence**: Power BI Dashboard Design, Data Visualization
 - **Tools**: Excel, MySQL Workbench, draw.io, Power BI, Notion, Confluence
+- **Business Analysis**: Requirements Gathering, BRD, FRD, Elicitation, RTM (Requirements Traceability Matrix)
+- **Process & Data Modeling**: BPMN 2.0, As-Is/To-Be Analysis, Process Mapping
 - **Methodologies**: Waterfall, Agile, SCRUM, MoSCoW, UAT (User Acceptance Testing)
 - **Adjacent Skills**: Wireframing, User Research, Figma
 
