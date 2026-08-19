@@ -21,11 +21,10 @@ Final-year Informatics Engineering student with hands-on experience in data clea
 ## 🗂 Featured Projects
 
 📂 **[Data Analyst Projects](https://github.com/titotriatmojo/data-analyst-portfolio)**  
-*SQL-driven analysis covering order cancellation trends, product performance, and regional sales patterns.*  
+*Data analysis projects focused on data preparation, exploratory analysis, and extracting actionable insights from structured datasets.*  
 📂 **[Business Intelligence Projects](https://github.com/titotriatmojo/business-intelligence-portfolio)**  
-*Interactive Power BI dashboards for e-commerce sales, cancellation monitoring, and regional performance tracking.*  
-📂 **[Business Analyst Projects](https://github.com/titotriatmojo/business-analyst-portfolio)**  
-*BPMN process models and business requirements documents translating cancellation findings into a proposed post-checkout order editing solution.*  
+*Business intelligence projects focused on data visualization, dashboard development, and performance reporting using Power BI.*  
+📂 **[Business Analyst Projects (Soon)](https://github.com/titotriatmojo/business-analyst-portfolio)**  
 
 ---
 
