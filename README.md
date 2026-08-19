@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst**
 
-Business/Data Analyst with a background in Informatics Engineering and hands-on experience in business process documentation, requirements analysis, and data management through academic and internship projects. Skilled in SQL, Excel, Power BI, UML, and process modeling, with the ability to translate business needs into structured solutions. 
+nal-year Informatics Engineering student with hands-on experience in data cleaning, SQL analysis, and dashboard reporting, translating raw transactional data into actionable business insights. Skilled in Python, SQL, Power BI, and statistical analysis, with additional grounding in requirements analysis and process modeling. 
 
 ---
 
