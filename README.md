@@ -8,13 +8,11 @@ Final-year Informatics Engineering student with hands-on experience in data clea
 
 ## 🛠 Tools & Skills
 
-- **Data Analysis**: SQL, Data Cleaning, Exploratory Data Analysis
-- **Business Intelligence**: Power BI Dashboard Design, Data Visualization
-- **Tools**: Excel, MySQL Workbench, draw.io, Power BI, Notion, Confluence
-- **Business Analysis**: Requirements Gathering, BRD, FRD, Elicitation, RTM (Requirements Traceability Matrix)
-- **Process & Data Modeling**: BPMN 2.0, As-Is/To-Be Analysis, Process Mapping
-- **Methodologies**: Waterfall, Agile, SCRUM, MoSCoW, UAT (User Acceptance Testing)
-- **Adjacent Skills**: Wireframing, User Research, Figma
+- **Data Analytics**: SQL, Python, Data Cleaning, Exploratory Data Analysis (EDA), Data Analysis, Business Insights
+- **Business Intelligence**: Power BI, Dashboard Design, Data Visualization, KPI Reporting
+- **Data Tools**: Microsoft Excel, MySQL, Google Sheets
+- **Collaboration**: Git & GitHub, Notion, Confluence
+- **Additional Skills**: Figma, Wireframing, Requirements Analysis
 
 ---
 
