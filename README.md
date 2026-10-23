@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst**
 
-Final-year Informatics Engineering student with hands-on experience in data cleaning, SQL analysis, and dashboard reporting, translating raw transactional data into actionable business insights. Skilled in Python, SQL, Power BI, and statistical analysis, with additional grounding in requirements analysis and process modeling. 
+Informatics Engineering graduate with hands-on experience in data cleaning, SQL analysis, and dashboard reporting, translating raw transactional data into actionable business insights. Skilled in Python, SQL, Power BI, and statistical analysis, with additional grounding in requirements analysis and process modeling. 
 
 ---
 
